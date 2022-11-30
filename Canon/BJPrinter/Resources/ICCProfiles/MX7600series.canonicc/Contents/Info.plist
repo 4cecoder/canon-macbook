@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MX7600series</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MX7600series version 7.2.10, Copyright CANON INC. 2001-2007 All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.canon.bj.print.icc.profiles.MX7600series</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MX7600series</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7.2.10</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>7.2.10</string>
+	<key>CanonICCProfilesInfo</key>
+	<array>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071004120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series FA2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071004120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series FC2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071004120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series GL2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071004120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series MP2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071023120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series SG1.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071023120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series SG2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20071023120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX7600 series SP2.icc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

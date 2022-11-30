@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13C1021</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>cijsdm_farec</string>
+	<key>CFBundleGetInfoString</key>
+	<string>cijsdm_farec version 2.0.0, Copyright CANON INC. 2013-2014</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.canon.ij.scangear.cijsdm.farec</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>cijsdm_farec</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.0.0</string>
+	<key>CFPlugInDynamicRegisterFunction</key>
+	<string></string>
+	<key>CFPlugInDynamicRegistration</key>
+	<string>NO</string>
+	<key>CFPlugInFactories</key>
+	<dict>
+		<key>1DB98B8E-25DA-4D58-9F75-335DE439A923</key>
+		<string>CanonScannerFCK</string>
+	</dict>
+	<key>CFPlugInTypes</key>
+	<dict>
+		<key>92BAED00-C61E-4EEA-B2AD-BB3512999004</key>
+		<array>
+			<string>1DB98B8E-25DA-4D58-9F75-335DE439A923</string>
+		</array>
+	</dict>
+	<key>CFPlugInUnloadFunction</key>
+	<string></string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>5B1008</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>13C64</string>
+	<key>DTSDKName</key>
+	<string>macosx10.9</string>
+	<key>DTXcode</key>
+	<string>0511</string>
+	<key>DTXcodeBuild</key>
+	<string>5B1008</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright CANON INC. 2013-2014</string>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Button</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>18,348</string>
+			<key>Size</key>
+			<string>64,64</string>
+		</dict>
+	</array>
+	<key>Image</key>
+	<dict>
+		<key>CIJUtilityChangeCartridge</key>
+		<string>ChangeBJCartridgeButton</string>
+	</dict>
+	<key>Title</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>90,395</string>
+			<key>Size</key>
+			<string>320,17</string>
+		</dict>
+	</array>
+	<key>Text</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>105,360</string>
+			<key>Size</key>
+			<string>320,34</string>
+		</dict>
+	</array>
+</dict>
+</plist>

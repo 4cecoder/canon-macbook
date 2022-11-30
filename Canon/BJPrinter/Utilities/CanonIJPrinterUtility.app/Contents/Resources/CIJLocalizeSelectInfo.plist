@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PrinterSelectWindow</key>
+	<dict>
+		<key>PrinterSelectWindowTitle</key>
+		<string>PrinterSelectWindowTitle_DEFAULT</string>
+		<key>ColumnName</key>
+		<string>PrinterSelectColumnName_DEFAULT</string>
+		<key>ColumnKind</key>
+		<string>PrinterSelectColumnKind_DEFAULT</string>
+		<key>BtnCancel</key>
+		<string>BtnCancel_DEFAULT</string>
+		<key>BtnOK</key>
+		<string>OKButton_DEFAULT</string>
+		<key>BtnMaintenance</key>
+		<string>PrinterSelectBtnMaintenance_DEFAULT</string>
+		<key>AlertMessage</key>
+		<string>RemovePrinterAlertMessage</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Help</key>
+	<dict>
+		<key>HelpMessage</key>
+		<string>HelpMessage_DEFAULT</string>
+		<key>HelpInformation</key>
+		<string>HelpInformation_DEFAULT</string>
+		<key>BtnOK</key>
+		<dict>
+			<key>LocalizeKey</key>
+			<dict>
+				<key>DEFAULT</key>
+				<string>OKButton_DEFAULT</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

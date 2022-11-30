@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>0,107</string>
+			<key>Size</key>
+			<string>452,17</string>
+		</dict>
+	</array>
+	<key>Button</key>
+	<dict>
+		<key>Update</key>
+		<dict>
+			<key>Origin</key>
+			<string>342,11</string>
+			<key>Size</key>
+			<string>96,32</string>
+		</dict>
+	</dict>
+	<key>Text</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>18,60</string>
+			<key>Size</key>
+			<string>414,17</string>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>40,130</string>
+			<key>Size</key>
+			<string>380,68</string>
+		</dict>
+	</array>
+	<key>Image</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>190,140</string>
+			<key>Size</key>
+			<string>78,125</string>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>213,270</string>
+			<key>Size</key>
+			<string>28,29</string>
+		</dict>
+	</array>
+</dict>
+</plist>

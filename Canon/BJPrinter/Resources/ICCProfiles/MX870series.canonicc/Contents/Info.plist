@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MX870series</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MX870series version 7.26.10, Copyright CANON INC. 2001-2009 All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.canon.bj.print.icc.profiles.MX870series</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MX870series</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7.26.10</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>7.26.10</string>
+	<key>CanonICCProfilesInfo</key>
+	<array>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series GL2 SG2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series GL3 SG3.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series MP2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series PR1.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series PR2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series PR3.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series PT2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20090602120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX870 series PT3.icc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

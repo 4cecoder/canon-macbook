@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CheckBox</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>20,330</string>
+			<key>Size</key>
+			<string>424,18</string>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>20,250</string>
+			<key>Size</key>
+			<string>424,18</string>
+		</dict>
+	</array>
+	<key>Button</key>
+	<dict>
+		<key>Default</key>
+		<dict>
+			<key>Origin</key>
+			<string>246,11</string>
+			<key>Size</key>
+			<string>96,32</string>
+		</dict>
+		<key>Apply</key>
+		<dict>
+			<key>Origin</key>
+			<string>342,11</string>
+			<key>Size</key>
+			<string>96,32</string>
+		</dict>
+	</dict>
+	<key>Text</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>38,275</string>
+			<key>Size</key>
+			<string>385,51</string>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>38,160</string>
+			<key>Size</key>
+			<string>385,85</string>
+		</dict>
+	</array>
+</dict>
+</plist>

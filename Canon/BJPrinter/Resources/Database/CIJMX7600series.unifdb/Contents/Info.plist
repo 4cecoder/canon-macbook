@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MX7600series</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MX7600series version 10.14.10, Copyright CANON INC. 2001-2008 All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.canon.ij.print.tbl.unif.MX7600series</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MX7600series</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>10.14.10</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>10.14.10</string>
+	<key>CanonChangeInfoDateString</key>
+	<string>20080620000000</string>
+	<key>CanonDatabaseDateString</key>
+	<string>20071024000000</string>
+	<key>CanonNameTableDateString</key>
+	<string>20080606000000</string>
+</dict>
+</plist>

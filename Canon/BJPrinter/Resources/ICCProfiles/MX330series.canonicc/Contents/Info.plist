@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MX330series</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MX330series version 7.15.10, Copyright CANON INC. 2001-2008 All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.canon.bj.print.icc.profiles.MX330series</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MX330series</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7.15.10</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>7.15.10</string>
+	<key>CanonICCProfilesInfo</key>
+	<array>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20080610120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX330 series GL2 SG2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20080610120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX330 series MP2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20080610120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX330 series PR1.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20080610120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX330 series PR2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20080610120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX330 series PT2.icc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

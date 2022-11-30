@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MX890series</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MX890series version 10.53.10, Copyright CANON INC. 2001-2011 All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.canon.bj.print.icc.profiles.MX890series</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MX890series</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>10.53.10</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>10.53.10</string>
+	<key>CanonICCProfilesInfo</key>
+	<array>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20110425120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX890 series GL2 SG2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20110425120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX890 series GL3 SG3.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20110425120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX890 series MP2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20110425120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX890 series PT1.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20110425120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX890 series PT2.icc</string>
+		</dict>
+		<dict>
+			<key>CanonICCProfileDateString</key>
+			<string>20110425120000</string>
+			<key>CanonICCProfileFileName</key>
+			<string>Canon MX890 series PT3.icc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

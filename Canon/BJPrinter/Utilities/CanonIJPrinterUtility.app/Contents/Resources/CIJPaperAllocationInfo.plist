@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Popup</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>170,159</string>
+			<key>Size</key>
+			<string>240,26</string>
+			<key>Text</key>
+			<dict>
+				<key>Origin</key>
+				<string>0,163</string>
+				<key>Size</key>
+				<string>160,17</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>170,123</string>
+			<key>Size</key>
+			<string>240,26</string>
+			<key>Text</key>
+			<dict>
+				<key>Origin</key>
+				<string>0,127</string>
+				<key>Size</key>
+				<string>160,17</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Text</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>18,210</string>
+			<key>Size</key>
+			<string>414,136</string>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>50,188</string>
+			<key>Size</key>
+			<string>100,22</string>
+		</dict>
+	</array>
+	<key>Button</key>
+	<dict>
+		<key>Default</key>
+		<dict>
+			<key>Origin</key>
+			<string>246,11</string>
+			<key>Size</key>
+			<string>96,32</string>
+		</dict>
+		<key>Apply</key>
+		<dict>
+			<key>Origin</key>
+			<string>342,11</string>
+			<key>Size</key>
+			<string>96,32</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

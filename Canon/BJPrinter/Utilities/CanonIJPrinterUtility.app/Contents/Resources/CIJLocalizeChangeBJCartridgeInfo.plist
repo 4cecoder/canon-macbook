@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CIJUtilityChangeCartridge</key>
+	<dict>
+		<key>Title</key>
+		<dict>
+			<key>LocalizeType</key>
+			<dict/>
+			<key>LocalizeKey</key>
+			<dict>
+				<key>DEFAULT</key>
+				<string>ChangeBJCartridgeTitle_DEFAULT</string>
+			</dict>
+		</dict>
+		<key>Text</key>
+		<dict>
+			<key>LocalizeType</key>
+			<dict/>
+			<key>LocalizeKey</key>
+			<dict>
+				<key>DEFAULT</key>
+				<string>ChangeBJCartridgeText_DEFAULT</string>
+			</dict>
+		</dict>
+		<key>GuideMsg</key>
+		<dict>
+			<key>LocalizeType</key>
+			<dict/>
+			<key>LocalizeKey</key>
+			<dict>
+				<key>DEFAULT</key>
+				<string>ChangeBJCartridgeGuideMsg_DEFAULT</string>
+			</dict>
+		</dict>
+		<key>GuideBtnOK</key>
+		<dict>
+			<key>LocalizeType</key>
+			<dict/>
+			<key>LocalizeKey</key>
+			<dict>
+				<key>DEFAULT</key>
+				<string>BtnOK_DEFAULT</string>
+			</dict>
+		</dict>
+		<key>GuideBtnCancel</key>
+		<dict>
+			<key>LocalizeType</key>
+			<dict/>
+			<key>LocalizeKey</key>
+			<dict>
+				<key>DEFAULT</key>
+				<string>BtnCancel_DEFAULT</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
