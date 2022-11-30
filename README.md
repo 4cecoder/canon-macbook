@@ -6,3 +6,5 @@ canon driver depricated for net-printer fix
 `cd canon-macbook`
 
 `cp -r Canon /Library/Printers/`
+
+`rm ../canon-macbook`
