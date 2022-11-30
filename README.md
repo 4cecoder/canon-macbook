@@ -1,5 +1,6 @@
 # canon-macbook
-canon driver depricated for net-printer fix
+
+old ah printer drivers from canon.com that canon decided to delete forever
 
 `git clone https://github.com/4cecoder/canon-macbook`
 
