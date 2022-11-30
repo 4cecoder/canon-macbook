@@ -1,5 +1,5 @@
 # canon-macbook
-canon driver depricated for printer fix
+canon driver depricated for net-printer fix
 
 `git clone https://github.com/4cecoder/canon-macbook`
 
